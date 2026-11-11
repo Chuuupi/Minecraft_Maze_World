@@ -1,0 +1,4 @@
+#ifndef SPECIAL_LOCATIONS
+#define SPECIAL_LOCATIONS
+
+#endif
